@@ -5,8 +5,7 @@
 ### Running Locally
 
 ```
-git clone https://github.com/gyumov/next-starter-typescript
-cd next-starter-typescript
-yarn
+yarn create next-app [project-name] -e https://github.com/gyumov/next-starter-typescript
+cd [project name]
 yarn dev
 ```
