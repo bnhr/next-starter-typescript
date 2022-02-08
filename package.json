@@ -39,10 +39,9 @@
   },
   "lint-staged": {
     "src/**/*.{ts,tsx}": [
-      "eslint '*/**/*.{ts,tsx}' --cache --fix",
-      "prettier --write ."
+      "eslint '*/**/*.{ts,tsx}' --cache --fix"
     ],
-    "src/**/*.{json,css,scss,md,mdx,js}": [
+    "src/**/*.{ts,tsx,json,css,scss,md,mdx,js}": [
       "prettier --write ."
     ]
   }

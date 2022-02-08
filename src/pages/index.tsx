@@ -3,7 +3,7 @@ import Layout from '@/components/Layout/Layout';
 
 const Home: NextPage = () => (
   <Layout>
-    <p>hello from next.js</p>
+    <p>hello from Next.js</p>
   </Layout>
 );
 

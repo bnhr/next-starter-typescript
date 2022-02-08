@@ -5,7 +5,7 @@
 ### Running Locally
 
 ```
-yarn create next-app [project-name] -e https://github.com/gyumov/next-starter-typescript
+yarn create next-app [project-name] -e https://github.com/bnhr/next-starter-typescript.git
 cd [project name]
 yarn dev
 ```
