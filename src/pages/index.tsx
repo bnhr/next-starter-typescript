@@ -1,10 +1,7 @@
-import type { NextPage } from 'next'
 import Layout from '@/components/Layout/Layout'
 
-const Home: NextPage = () => (
-  <Layout>
-    <p>hello from next.js</p>
-  </Layout>
-)
+function Home() {
+  return <Layout>hello from next.js</Layout>
+}
 
 export default Home
