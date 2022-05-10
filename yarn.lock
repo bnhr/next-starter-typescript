@@ -38,7 +38,7 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-"@commitlint/cli@16.2.4", "@commitlint/cli@^16.2.4":
+"@commitlint/cli@16.2.4":
   version "16.2.4"
   resolved "https://registry.yarnpkg.com/@commitlint/cli/-/cli-16.2.4.tgz#f22707918d08c27a19779798788a7c793f1d38e6"
   integrity sha512-rbvqvz9JI+uiKxV2nH65BtSU01fsADd3bxe9fWtO3rM0c+CI/H9FfzKkDLvSRmXjvk1G2/wXlCGeqO9IBT4X9g==
@@ -827,14 +827,6 @@ commander@^8.3.0:
   version "8.3.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-8.3.0.tgz#4837ea1b2da67b9c616a67afbb0fafee567bca66"
   integrity sha512-OkTL9umf+He2DZkUq8f8J9of7yL6RJKI24dVITBmNfZBmri9zYZQrKkuXiKhyfPSu8tUhnVBB1iKXevvnlR4Ww==
-
-commitlint@16.2.4:
-  version "16.2.4"
-  resolved "https://registry.yarnpkg.com/commitlint/-/commitlint-16.2.4.tgz#36063a40ec5f51b3e65458e737cf6ca8aa9d9756"
-  integrity sha512-MLTmC68lgtVIG4RD6bAfaqygWRMU8HM50DOZGFsefIsPFwnSNeY6aA0l5oo8PWhQktgx4NH5E9JEehnuShN9hg==
-  dependencies:
-    "@commitlint/cli" "^16.2.4"
-    "@commitlint/types" "^16.2.1"
 
 compare-func@^2.0.0:
   version "2.0.0"
