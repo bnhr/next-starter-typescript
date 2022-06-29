@@ -2,10 +2,13 @@
 
 > Bare Minimal Next.js Starter for my next projects
 
-### Running Locally
+### Running Locally (using PNPM)
 
 ```
-yarn create next-app [project-name] -e https://github.com/bnhr/next-starter-typescript.git
+pnpm create next-app [project-name] -e https://github.com/bnhr/next-starter-typescript.git
 cd [project name]
-yarn dev
+pnpm run dev
 ```
+
+if you prefer other package manager, replace it with yarn or npm.
+
