@@ -11,4 +11,3 @@ pnpm run dev
 ```
 
 if you prefer other package manager, replace it with yarn or npm.
-
